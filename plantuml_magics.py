@@ -1,7 +1,5 @@
 """
 An Plantuml extension for generating UML figures from within ipython notebook.
-
-See example notebook at: http://nbviewer.ipython.org/github/sberke/ipython-notebooks/blob/master/Demo%20of%20plantUML%20in%20ipython%20notebook.ipynb
 """
 import os
 from IPython.core.magic import magics_class, cell_magic, Magics
